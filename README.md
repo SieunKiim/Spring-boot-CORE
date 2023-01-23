@@ -1,4 +1,4 @@
-# musical-couscous
+# Spring-boot-CORE
 설 맞이 스프링 코어 공부 (였던 것)
 
 - Bean의 생성과 관리
