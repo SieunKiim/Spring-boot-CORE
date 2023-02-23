@@ -4,6 +4,7 @@
 - Bean의 생성과 관리
 - (DI, IOC) container
 - 서블렛의 동작 과정
+- transactional과 Proxy
 
 
 👷 🚧🚧🚧
